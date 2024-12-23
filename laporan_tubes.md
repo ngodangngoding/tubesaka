@@ -210,6 +210,11 @@ while True:
 
 ```
 
+## Output Dan Grafik
+![image](https://github.com/user-attachments/assets/77fcda1c-d08b-4bea-b93e-59242cbae049)
+![image](https://github.com/user-attachments/assets/d62a24fa-6ad7-4f32-b747-53409e1fc950)
+
+
 ## Kesimpulan
 
 Dalam konteks penghitungan jumlah kata dan karakter, metode iteratif lebih efisien dalam hal penggunaan memori dan kecepatan eksekusi, terutama untuk input yang lebih besar. Di sisi lain, metode rekursif menawarkan pendekatan yang lebih elegan dan dapat lebih mudah dipahami, tetapi dengan risiko penggunaan memori yang lebih tinggi.<br/>
